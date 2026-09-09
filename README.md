@@ -14,6 +14,12 @@ As the business grows, different teams need access to relevant performance metri
 
 The Business Insights 360 dashboard brings these different perspectives together into one interactive Power BI report.
 
+## Live Dashboard
+
+Explore the interactive Power BI dashboard:
+
+[View Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQ2ZDMyYjItNTQ4YS00MTIzLTk2NjUtYjE1NDE0MWJhMTcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Dashboard Views
 
 ### Executive View
