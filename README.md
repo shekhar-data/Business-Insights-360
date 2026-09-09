@@ -72,19 +72,19 @@ Provides information about the report, data refresh process, definitions, and fr
 
 ### Executive View
 
-![Executive View](screenshots/executive-view.png)
+![Executive View](screenshots/Screenshot%2026-09-08%175141.png)
 
 ### Finance View
 
-![Finance View](screenshots/Screenshot-2026-09-08-175122.png)
+![Finance View](screenshots/Screenshot%2026-09-08%175122.png)
 
 ### Sales View
 
-![Sales View](screenshots/sales-view.png)
+![Sales View](screenshots/Screenshot%2026-09-08%175127.png)
 
 ### Marketing View
 
-![Marketing View](screenshots/marketing-view.png)
+![Marketing View](screenshots/Screenshot%2026-09-08%175131.png)
 
 ### Supply Chain View
 
