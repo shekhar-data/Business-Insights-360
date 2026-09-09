@@ -76,7 +76,7 @@ Provides information about the report, data refresh process, definitions, and fr
 
 ### Finance View
 
-![Finance View](screenshots/finance-view.png)
+![Finance View](screenshots/Screenshot 2026-09-08 175122.png)
 
 ### Sales View
 
