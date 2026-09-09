@@ -88,7 +88,7 @@ Provides information about the report, data refresh process, definitions, and fr
 
 ### Supply Chain View
 
-![Supply Chain View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%2026-09-09%162539.png)
+![Supply Chain View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-09%20162539.png)
 
 ## Key Business Metrics
 
