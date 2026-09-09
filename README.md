@@ -68,6 +68,28 @@ Focuses on forecast and operational performance through:
 ### Info View
 Provides information about the report, data refresh process, definitions, and frequently asked questions.
 
+## Dashboard Preview
+
+### Executive View
+
+![Executive View](screenshots/executive-view.png)
+
+### Finance View
+
+![Finance View](screenshots/finance-view.png)
+
+### Sales View
+
+![Sales View](screenshots/sales-view.png)
+
+### Marketing View
+
+![Marketing View](screenshots/marketing-view.png)
+
+### Supply Chain View
+
+![Supply Chain View](screenshots/supply-chain-view.png)
+
 ## Key Business Metrics
 
 The dashboard works with several important business metrics, including:
