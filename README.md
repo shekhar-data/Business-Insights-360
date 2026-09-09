@@ -90,6 +90,15 @@ Provides information about the report, data refresh process, definitions, and fr
 
 ![Supply Chain View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-09%20162539.png)
 
+## Key Insights
+
+- **Net Sales:** $3.74B across the selected business period.
+- **Gross Margin:** 38.08%, with profitability varying across markets, products, and customers.
+- **Net Profit:** -13.98%, highlighting significant profitability pressure.
+- **Forecast Accuracy:** 81.17%, with forecast errors varying across products.
+- **Revenue concentration:** A relatively small group of products and customers contributes significantly to overall revenue.
+- **Market performance:** Performance differs considerably across regions and markets, helping identify areas requiring further attention.
+
 ## Key Business Metrics
 
 The dashboard works with several important business metrics, including:
