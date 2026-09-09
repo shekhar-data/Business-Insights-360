@@ -72,19 +72,19 @@ Provides information about the report, data refresh process, definitions, and fr
 
 ### Executive View
 
-![Executive View](screenshots/Screenshot%2026-09-08%175141.png)
+![Executive View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-08%20175141.png)
 
 ### Finance View
 
-![Finance View](screenshots/Screenshot%2026-09-08%175122.png)
+![Finance View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-08%20175122.png)
 
 ### Sales View
 
-![Sales View](screenshots/Screenshot%2026-09-08%175127.png)
+![Sales View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-08%20175127.png)
 
 ### Marketing View
 
-![Marketing View](screenshots/Screenshot%2026-09-08%175131.png)
+![Marketing View](https://raw.githubusercontent.com/shekhar-data/Business-Insights-360/main/screenshots/Screenshot%202026-09-08%20175131.png)
 
 ### Supply Chain View
 
